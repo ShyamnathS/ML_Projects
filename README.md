@@ -139,6 +139,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 💡 Author
-Developed by **[Your Name]**
+Developed by **[Shyamnath S]**
 
 If you liked this project, give it a ⭐ on GitHub!
